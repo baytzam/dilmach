@@ -9,22 +9,16 @@
                 </div>
                 <div class="col-lg-6 col-md-12">
                     <div class="free-trial-form">
-                        <span class="sub-title">Free Trial</span>
-                        <h2>Sign Up For A Free Trial</h2>
+                        <span class="sub-title">Связаться</span>
+                        <h2>Оставите заявку и мы с вами свяжемся</h2>
                         <form @submit.prevent>
                             <div class="form-group">
-                                <input type="text" class="form-control" placeholder="Your Name *">
+                                <input type="text" class="form-control" placeholder="Ваше имя *" required>
                             </div>
                             <div class="form-group">
-                                <input type="email" class="form-control" placeholder="Your Email *">
+                                <input type="email" class="form-control" placeholder="Email или номер телефона *" required>
                             </div>
-                            <div class="form-group">
-                                <input type="text" class="form-control" placeholder="Your Phone *">
-                            </div>
-                            <div class="form-group">
-                                <input type="text" class="form-control" placeholder="Your Subject *">
-                            </div>
-                            <button type="submit">Register Now</button>
+                            <button type="submit">Оставить заявку</button>
                         </form>
                     </div>
                 </div>

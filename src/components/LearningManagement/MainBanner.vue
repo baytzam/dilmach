@@ -5,7 +5,7 @@
                 <div class="col-lg-6 col-md-12">
                     <div class="main-banner-content-style-two">
                         <h1>Онлайн-школа Турецкого языка DILMACH</h1>
-                        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Quis ipsum suspendisse.</p>
+                        <p>Наша онлайн-школа поможет тебе не только освоить, но и влюбиться в турецкий язык.</p>
                         <router-link to="/authentication" class="default-btn">
                             Попробовать бесплатный урок
                             <span></span>

@@ -12,12 +12,12 @@
                         <span class="sub-title">Why choose us</span>
                         <h2>Наши групповые занятия проходят на онлайн платформе</h2>
                         <p>We understand better that online-based learning can make a significant change to reach students from all over the world! Giving options to learn better always can offer the best outcomes!</p>
-                        <ul class="features-list">
-                            <li><span><i class="flaticon-experience"></i> Skiled Teachers</span></li>
-                            <li><span><i class="flaticon-time-left"></i> Afordable Courses</span></li>
-                            <li><span><i class="flaticon-tutorials"></i> Efficient & Flexible</span></li>
-                            <li><span><i class="flaticon-self-growth"></i> Lifetime Accesss</span></li>
-                        </ul>
+<!--                        <ul class="features-list">-->
+<!--                            <li><span><i class="flaticon-experience"></i> Skiled Teachers</span></li>-->
+<!--                            <li><span><i class="flaticon-time-left"></i> Afordable Courses</span></li>-->
+<!--                            <li><span><i class="flaticon-tutorials"></i> Efficient & Flexible</span></li>-->
+<!--                            <li><span><i class="flaticon-self-growth"></i> Lifetime Accesss</span></li>-->
+<!--                        </ul>-->
                         <router-link to="/authentication" class="default-btn">
                             <i class="flaticon-user"></i>
                             Join For Free
