@@ -1,0 +1,32 @@
+<template>
+    <div class="online-platform-area pt-100">
+        <div class="container">
+            <div class="row align-items-center">
+                <div class="col-lg-6 col-md-12">
+                    <div class="online-platform-image">
+                        <img src="../../assets/img/gym/gym-people.png" alt="image">
+                    </div>
+                </div>
+                <div class="col-lg-6 col-md-12">
+                    <div class="online-platform-content">
+                        <span class="sub-title">Start Your Online Fitness Coaching Presence!</span>
+                        <h2>DIGITAL FITNESS COACHING BUSINESS!</h2>
+                        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
+                        <router-link to="/contact" class="default-btn">
+                            <i class="flaticon-user"></i>
+                            Get Started Free
+                            <span></span>
+                        </router-link>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="shape23"><img src="../../assets/img/shape/shape23.png" alt="image"></div>
+    </div>
+</template>
+
+<script>
+export default {
+    name: 'FitnessCoaching'
+}
+</script>

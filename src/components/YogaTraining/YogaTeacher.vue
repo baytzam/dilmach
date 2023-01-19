@@ -1,0 +1,76 @@
+<template>
+    <div class="courses-area pb-70">
+        <div class="container">
+            <div class="section-title">
+                <span class="sub-title">Go at your own pace</span>
+                <h2 class="playfair-display-font">Become a Certified Yoga Teacher</h2>
+                <p>Explore all of our courses and pick your suitable ones to enroll and start learning with us! We ensure that you will never regret it!</p>
+            </div>
+            <div class="row justify-content-center">
+                <div class="col-lg-4 col-md-6">
+                    <div class="single-yoga-courses-box">
+                        <div class="courses-image">
+                            <router-link to="/single-courses-one" class="d-block">
+                                <img src="../../assets/img/courses/yoga-img1.jpg" alt="image">
+                            </router-link>
+                        </div>
+                        <div class="courses-content">
+                            <h3 class="playfair-display-font">
+                                <router-link to="/single-courses-one">200 Hour YTT Course</router-link>
+                            </h3>
+                            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
+                            <router-link to="/single-courses-one" class="default-btn">
+                                View Details
+                                <span></span>
+                            </router-link>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-lg-4 col-md-6">
+                    <div class="single-yoga-courses-box">
+                        <div class="courses-image">
+                            <router-link to="/single-courses-one" class="d-block">
+                                <img src="../../assets/img/courses/yoga-img2.jpg" alt="image">
+                            </router-link>
+                        </div>
+                        <div class="courses-content">
+                            <h3 class="playfair-display-font">
+                                <router-link to="/single-courses-one">300 Hour YTT Course</router-link>
+                            </h3>
+                            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
+                            <router-link to="/single-courses-one" class="default-btn">
+                                View Details
+                                <span></span>
+                            </router-link>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-lg-4 col-md-6">
+                    <div class="single-yoga-courses-box">
+                        <div class="courses-image">
+                            <router-link to="/single-courses-one" class="d-block">
+                                <img src="../../assets/img/courses/yoga-img3.jpg" alt="image">
+                            </router-link>
+                        </div>
+                        <div class="courses-content">
+                            <h3 class="playfair-display-font">
+                                <router-link to="/single-courses-one">500 Hour YTT Course</router-link>
+                            </h3>
+                            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
+                            <router-link to="/single-courses-one" class="default-btn">
+                                View Details
+                                <span></span>
+                            </router-link>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</template>
+
+<script>
+export default {
+    name: 'YogaTeacher'
+}
+</script>
