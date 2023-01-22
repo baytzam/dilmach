@@ -4,7 +4,7 @@
       <div class="container-fluid">
         <nav class="navbar navbar-expand-lg navbar-light">
           <router-link class="navbar-brand" to="/">
-            <img src="../../assets/logo.png" alt="logo" />
+            <img src="../../assets/logo_rus.png" alt="logo" />
           </router-link>
           <div
             class="navbar-toggler"
@@ -22,11 +22,11 @@
 
           <div class="others-option d-flex align-items-center">
             <div class="option-item">
-              <router-link to="/authentication" class="default-btn">
+              <a href="https://docs.google.com/forms/d/1BPZsEZbvD0kcq2h5i7G3cJgKNwoHsf2W13gqO0chfa4/edit" target="_blank" class="default-btn">
                 <i class="flaticon-user"></i>
                 Записаться
                 <span></span>
-              </router-link>
+              </a>
             </div>
           </div>
         </nav>

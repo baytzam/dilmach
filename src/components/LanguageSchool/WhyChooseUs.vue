@@ -18,11 +18,11 @@
 <!--                            <li><span><i class="flaticon-tutorials"></i> Efficient & Flexible</span></li>-->
 <!--                            <li><span><i class="flaticon-self-growth"></i> Lifetime Accesss</span></li>-->
 <!--                        </ul>-->
-                        <router-link to="/authentication" class="default-btn">
+                        <a href="https://docs.google.com/forms/d/1BPZsEZbvD0kcq2h5i7G3cJgKNwoHsf2W13gqO0chfa4/edit" target="_blank" class="default-btn">
                             <i class="flaticon-user"></i>
                             Join For Free
                             <span></span>
-                        </router-link>
+                        </a>
                     </div>
                 </div>
             </div>
