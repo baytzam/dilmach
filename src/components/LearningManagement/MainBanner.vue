@@ -6,10 +6,10 @@
                     <div class="main-banner-content-style-two">
                         <h1>Онлайн-школа Турецкого языка DILMACH</h1>
                         <p>Наша онлайн-школа поможет тебе не только освоить, но и влюбиться в турецкий язык.</p>
-                        <router-link to="/authentication" class="default-btn">
+                        <a href="https://docs.google.com/forms/d/1BPZsEZbvD0kcq2h5i7G3cJgKNwoHsf2W13gqO0chfa4/edit" target="_blank" class="default-btn">
                             Оставить заявку
                             <span></span>
-                        </router-link>
+                        </a>
                     </div>
                 </div>
                 <div class="col-lg-6 col-md-12">

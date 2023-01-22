@@ -7,7 +7,7 @@
                         <router-link to="/" class="logo">
                             <img src="../../assets/logo.png" alt="logo">
                         </router-link>
-                        <p>Working to bring significant changes in online-based learning by doing extensive research for course curriculum preparation, student engagements, and looking forward to the flexible education!</p>
+<!--                        <p>Working to bring significant changes in online-based learning by doing extensive research for course curriculum preparation, student engagements, and looking forward to the flexible education!</p>-->
                         <ul class="social-link">
                             <li>
                                 <a href="https://twitter.com/" class="d-block" target="_blank">
@@ -17,6 +17,11 @@
                             <li>
                                 <a href="https://instagram.com/dilmach.tr?igshid=Zjc2ZTc4Nzk=" class="d-block" target="_blank">
                                     <i class='bx bxl-instagram'></i>
+                                </a>
+                            </li>
+                            <li>
+                                <a href="https://api.whatsapp.com/send?phone=+905522950024" class="d-block" target="_blank">
+                                    <i class='bx bxl-whatsapp'></i>
                                 </a>
                             </li>
                             <!-- <li>
