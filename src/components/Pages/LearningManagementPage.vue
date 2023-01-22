@@ -4,7 +4,7 @@
         <MainBanner />
         <Features />
         <WhyChooseUs />
-        <PricingPlan />
+<!--        <PricingPlan />-->
         <DistanceLearning />
         <!-- <TopSellingCourses /> -->
         <!-- <DevelopYourSkills /> -->
