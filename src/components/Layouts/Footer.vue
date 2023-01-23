@@ -44,10 +44,6 @@
                                 <i class='bx bx-phone-call'></i>
                                 <a href="tel:+905522950024">+90 552 295 00 24</a>
                             </li>
-                            <li>
-                                <i class='bx bx-envelope'></i>
-                                <a href="mailto:hello@vdemy.com">hello@vdemy.com</a>
-                            </li>
                         </ul>
                     </div>
                 </div>

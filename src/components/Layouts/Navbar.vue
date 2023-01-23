@@ -3,32 +3,32 @@
     <div class="vdemy-nav">
       <div class="container-fluid">
         <nav class="navbar navbar-expand-lg navbar-light">
-          <router-link class="navbar-brand" to="/">
+          <a class="navbar-brand" href="/">
             <img src="../../assets/logo_rus.png" alt="logo" />
-          </router-link>
-          <div
-            class="navbar-toggler"
-            @click="active = !active"
-            :aria-pressed="active ? 'true' : 'false'"
-            v-bind:class="{ active: button_active_state }"
-            v-on:click="button_active_state = !button_active_state"
-          >
-            <i class="bx bx-menu"></i>
-            <i class="bx bx-x"></i>
-          </div>
+          </a>
+<!--          <div-->
+<!--            class="navbar-toggler"-->
+<!--            @click="active = !active"-->
+<!--            :aria-pressed="active ? 'true' : 'false'"-->
+<!--            v-bind:class="{ active: button_active_state }"-->
+<!--            v-on:click="button_active_state = !button_active_state"-->
+<!--          >-->
+<!--            <i class="bx bx-menu"></i>-->
+<!--            <i class="bx bx-x"></i>-->
+<!--          </div>-->
           <div class="collapse navbar-collapse" :class="{ toggler: active }">
             
           </div>
 
-          <div class="others-option d-flex align-items-center">
-            <div class="option-item">
-              <a href="https://docs.google.com/forms/d/1BPZsEZbvD0kcq2h5i7G3cJgKNwoHsf2W13gqO0chfa4/edit" target="_blank" class="default-btn">
-                <i class="flaticon-user"></i>
-                Записаться
-                <span></span>
-              </a>
-            </div>
-          </div>
+<!--          <div class="others-option d-flex align-items-center">-->
+<!--            <div class="option-item">-->
+<!--              <a href="https://docs.google.com/forms/d/1BPZsEZbvD0kcq2h5i7G3cJgKNwoHsf2W13gqO0chfa4/edit" target="_blank" class="default-btn">-->
+<!--                <i class="flaticon-user"></i>-->
+<!--                Записаться-->
+<!--                <span></span>-->
+<!--              </a>-->
+<!--            </div>-->
+<!--          </div>-->
         </nav>
       </div>
     </div>

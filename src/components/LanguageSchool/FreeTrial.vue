@@ -19,7 +19,7 @@
 <!--                                <input type="email" class="form-control" placeholder="Email или номер телефона *" required>-->
 <!--                            </div>-->
 <!--                        </form>-->
-                            <a href="https://docs.google.com/forms/d/1BPZsEZbvD0kcq2h5i7G3cJgKNwoHsf2W13gqO0chfa4/edit" target="_blank" class="default-btn">Оставить заявку</a>
+<!--                            <a href="https://docs.google.com/forms/d/1BPZsEZbvD0kcq2h5i7G3cJgKNwoHsf2W13gqO0chfa4/edit" target="_blank" class="default-btn">Оставить заявку</a>-->
                     </div>
                 </div>
             </div>
@@ -30,10 +30,5 @@
 <script>
 export default {
     name: 'FreeTrial',
-    methods: {
-        formSubmit() {
-            console.log('form submitted');
-        },
-    },
 }
 </script>

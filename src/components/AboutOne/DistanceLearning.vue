@@ -17,15 +17,39 @@
                         <div class="single-courses-box">
                             <div class="video-box">
                                 <div class="image">
+                                    <img src="../../assets/adil.jpg" class="shadow" alt="image">
+                                </div>
+<!--                                <a-->
+<!--                                    href="javascript:void(0)"-->
+<!--                                    class="video-btn popup-youtube"-->
+<!--                                    v-on:click="isPopupMethod(isPopup)"-->
+<!--                                >-->
+<!--                                    <i class="flaticon-play"></i>-->
+<!--                                </a>-->
+                                <div class="shape10">
+                                    <!-- <img src="../../assets/img/shape/shape9.png" alt="image"> -->
+                                </div>
+                            </div>
+                            <div class="courses-content">
+                                <h3>🙋🏻‍♂️Adil-Er Nayman</h3>
+                                <p>- отзывчивый и открытый преподаватель начального этапа (А1), готовит вас к обучению с учителями-носителями языка.</p>
+                                <p>Уровень турецкого языка - C1 (продвинутый уровень) сертификат BURSA ULUDAĞ ÜNİVERSİTESİ </p>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-lg-4 col-md-12">
+                        <div class="single-courses-box">
+                            <div class="video-box">
+                                <div class="image">
                                     <img src="../../assets/tuncay-photo.jpg" class="shadow" alt="image">
                                 </div>
-                                <a 
-                                    href="javascript:void(0)" 
-                                    class="video-btn popup-youtube"
-                                    v-on:click="isPopupMethod(isPopup)"
-                                >
-                                    <i class="flaticon-play"></i>
-                                </a>
+<!--                                <a -->
+<!--                                    href="javascript:void(0)" -->
+<!--                                    class="video-btn popup-youtube"-->
+<!--                                    v-on:click="isPopupMethod(isPopup)"-->
+<!--                                >-->
+<!--                                    <i class="flaticon-play"></i>-->
+<!--                                </a>-->
                                 <div class="shape10">
                                     <!-- <img src="../../assets/img/shape/shape9.png" alt="image"> -->
                                 </div>
@@ -43,13 +67,13 @@
                                 <div class="image">
                                     <img src="../../assets/zehra.jpg" class="shadow" alt="image">
                                 </div>
-                                <a 
-                                    href="javascript:void(0)" 
-                                    class="video-btn popup-youtube"
-                                    v-on:click="isPopupMethod(isPopup)"
-                                >
-                                    <i class="flaticon-play"></i>
-                                </a>
+<!--                                <a -->
+<!--                                    href="javascript:void(0)" -->
+<!--                                    class="video-btn popup-youtube"-->
+<!--                                    v-on:click="isPopupMethod(isPopup)"-->
+<!--                                >-->
+<!--                                    <i class="flaticon-play"></i>-->
+<!--                                </a>-->
                                 <div class="shape10">
                                     <!-- <img src="../../assets/img/shape/shape9.png" alt="image"> -->
                                 </div>
@@ -58,30 +82,6 @@
                                 <h3>🧕🏻 Zehra Ergin</h3>
                                 <h4>добрая и эрудированная преподавательница.</h4>
                                 <p> Проводит занятия с женщинами. Уровень турецкого языка (C2) + владеет русским. ANKARA HACETTEPE ÜNİVERSİTESİ.</p>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col-lg-4 col-md-12">
-                        <div class="single-courses-box">
-                            <div class="video-box">
-                                <div class="image">
-                                    <img src="../../assets/adil.jpg" class="shadow" alt="image">
-                                </div>
-                                <a 
-                                    href="javascript:void(0)" 
-                                    class="video-btn popup-youtube"
-                                    v-on:click="isPopupMethod(isPopup)"
-                                >
-                                    <i class="flaticon-play"></i>
-                                </a>
-                                <div class="shape10">
-                                    <!-- <img src="../../assets/img/shape/shape9.png" alt="image"> -->
-                                </div>
-                            </div>
-                            <div class="courses-content">
-                                <h3>🙋🏻‍♂️Adil-Er Nayman</h3>
-                                <p>- отзывчивый и открытый преподаватель начального этапа (А1), готовит вас к обучению с учителями-носителями языка.</p>
-                                <p>Уровень турецкого языка - C1 (продвинутый уровень) сертификат BURSA ULUDAĞ ÜNİVERSİTESİ </p>
                             </div>
                         </div>
                     </div>
