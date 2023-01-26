@@ -10,7 +10,7 @@
                 <div class="col-lg-6 col-md-12">
                     <div class="free-trial-form">
                         <span class="sub-title">Связаться</span>
-                        <h2>Оставите заявку и мы с вами свяжемся</h2>
+                        <h2>Заполните анкету и получите  персональный гайд по турецкому языку</h2>
 <!--                        <form @submit.prevent>-->
 <!--                            <div class="form-group">-->
 <!--                                <input type="text" class="form-control" placeholder="Ваше имя *" required>-->
